@@ -1,0 +1,6 @@
+text,label,confidence
+This product is excellent,positive,0.97
+The product is excellent,positive,0.95
+The delivery was late,negative,0.88
+I did not like the service,negative,0.91
+The service was okay,neutral,0.72
